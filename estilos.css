@@ -13,32 +13,6 @@ header, footer {
     padding: 10px 0;
 }
 
-/* Estilos para a barra de navegação */
-nav {
-    display: flex;
-    justify-content: center;
-    background-color: #8F4854;
-    padding: 10px 0;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    padding: 10px 20px;
-}
-
-@media screen and (max-width: 768px) {
-    nav {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav a {
-        padding: 10px;
-        margin: 5px;
-    }
-}
-
 /* Estilos para as seções */
 section {
     padding: 20px;
